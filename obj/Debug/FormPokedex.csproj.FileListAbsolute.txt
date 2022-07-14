@@ -1,0 +1,14 @@
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\bin\Debug\FormPokedex.exe.config
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\bin\Debug\FormPokedex.exe
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\bin\Debug\FormPokedex.pdb
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.Form1.resources
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.Properties.Resources.resources
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.csproj.CopyComplete
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.exe
+C:\Users\Carlo\source\repos\FormPokedex\FormPokedex\obj\Debug\FormPokedex.pdb
